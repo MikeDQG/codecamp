@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head lang=sl>
+	<meta charset="utf-8">
+	<title>JS example</title>
+	<script>
+        window.onload = () => {
+			let inputs =
+				document.body.getElementsByTagName('input');
+			for (let i = 0; i < inputs.length; i++) {
+                inputs[i].onmouseover = () =>  inputs[i].focus();
+				// inputs[i].addEventListener('mouseover', () =>  inputs[i].focus());
+			}
+		}
+		
+	</script>
+</head>
+<body name="hh">
+	Name: <input><br>Email: <input>
+</body>
+</html>

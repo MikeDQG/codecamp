@@ -1,0 +1,15 @@
+Priprava projekta spletne trgovine
+
+Vaj predmetu bodo potekala tako, da boste preko tedenskih nalog nadgrajevali svoj projekt. Tema vaj je izdelava spletne trgovine. V tej fazi si izberite kategorijo izdelkov, ki jih boste v spletni trgovini prodajali. V  ta namen si morate do pričetka vaj pripraviti osnovni projekt (HTML + CSS). Vaša spletna trgovina naj zaenkrat vsebuje 3 podstrani: 
+vstopna spletna stran (primer)
+podstran s seznamom izdelkov spletne trgovine (primer)
+podstran s podrobnostmi izbranega izdelka (primer)
+Kasneje boste spletno trgovino nadgradili z dodatnimi podstranmi. 
+
+Ko izdelate šablone podstrani, ustvarite nekaj podstrani za posamezne izdelke. Temo (prodajanih izdelkov) spletne trgovine si izberete sami. 
+
+Pri izdelavi predloge spletne strani je nujno uporabiti ustrezne strukturne html značke (npr. main, nav, header, footer, section, article, aside) in napisati ustrezno strukturirane css razrede. 
+
+Vaš projekt lahko vsebuje izključno(!) html in css kodo. V projektu v tej fazi ni dovoljeno uporabljati nobenih zunanjih knjižnic ali JS skript. 
+
+Naloga se ne oceni, je pa predpogoj za delo, s katerim začnemo v naslednjem tednu. 
